@@ -1,4 +1,4 @@
-# AI-and-Employment
+# Research-AI-and-Employment
 
 Why entry-level information work can keep disappearing even when the
 economy is doing fine.
