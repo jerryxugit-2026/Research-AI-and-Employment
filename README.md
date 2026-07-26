@@ -118,8 +118,10 @@ mechanism — four of the five occupations lost real purchasing power
 
 </details>
 
+**[Full text (Chinese, PDF) →](paper/ai-employment-working-paper-2026-05-zh.pdf)**
+
 ```
-paper/    full text (Chinese, PDF)    [being prepared]
+paper/    full text (Chinese, PDF)
 assets/   figures
 ```
 
