@@ -125,6 +125,10 @@ paper/    full text (Chinese, PDF)
 assets/   figures
 ```
 
+*Dates, plainly: this repository was assembled in July 2026. The reading
+and the argument built up through late 2025 and early 2026; the paper is
+dated May 2026. Commit dates mark the archiving, not the writing.*
+
 ---
 
 *One of four directions on [my profile](https://github.com/jerryxugit-2026) —
